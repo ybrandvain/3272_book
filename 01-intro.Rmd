@@ -89,7 +89,7 @@ Estimates of any sample will differ somewhat from population parameters by chanc
 
 *I therefore think it's more appropriate to call this chance deviation of estimates away from parameters* **"The First Law of sampling"** *rather than sampling error.*
 
-### Sampling Bias {#samplingBias -}
+### Sampling Bias {#samplingBias -} 
 
 ```{r, echo=FALSE,fig.cap ='Image from [xkcd](https://xkcd.com/1999/)', out.width='30%', out.extra='style="float:right; padding:10px"'}
 include_graphics("https://imgs.xkcd.com/comics/selection_effect_2x.png")
